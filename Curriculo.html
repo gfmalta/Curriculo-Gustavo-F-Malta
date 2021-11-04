@@ -29,7 +29,7 @@
             <ul>
                 <li>Idade: 20 anos</li>
                 <li>Telefone: (61) 98271-3650</li>
-                <li>E-mail: gustavo.malta10@hotmail.com</l1>
+                <li>E-mail: gustavo.malta10@hotmail.com</li>
                 <li>Endereço: Lago Sul, Brasília-DF</li>
             </ul>
         </div>
