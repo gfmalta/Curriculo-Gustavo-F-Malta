@@ -10,6 +10,7 @@
 </head>
 
 <body>
+    <div class="background">
     <div class="menu">
         <section>
             <ul>
@@ -21,7 +22,7 @@
             </ul>
         </section>
     </div>
-    <div class="background">
+    
         <div id="Sobre-mim" class="container">
             <h1>Gustavo Ferreira Malta</h1>
             <img class="foto-perfil" src="assets/imagens/IMG_4795 (2).JPG">
